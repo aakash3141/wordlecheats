@@ -1,5 +1,5 @@
 # wordlecheats
-A little tool for cheating at Wordle
+A little tool for cheating at Wordle...
 <br>
 The full app tutorial/description can be found in README.txt
 
